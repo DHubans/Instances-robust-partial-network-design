@@ -1,0 +1,326 @@
+Instance name : 3_5_9 
+Category : MC
+Maximum budget : 166.0555
+Nodes : 0|0 0|1 0|2 0|3 0|4 1|0 1|1 1|2 1|3 1|4 2|0 2|1 2|2 2|3 2|4 
+Edges :
+   name : (0|0 -> 0|1)
+      nodes : 0|0 0|1
+      nominal build cost : 1.428
+      build cost interval : 1.428 1.795
+      nominal use cost : 6.546
+      use cost interval : 6.546 16.538
+   name : (0|0 -> 1|1)
+      nodes : 0|0 1|1
+      nominal build cost : 1.661
+      build cost interval : 1.661 3.179
+      nominal use cost : 6.946
+      use cost interval : 6.946 26.276
+   name : (0|1 -> 0|2)
+      nodes : 0|1 0|2
+      nominal build cost : 2.821
+      build cost interval : 2.821 4.901
+      nominal use cost : 6.908
+      use cost interval : 6.908 21.91
+   name : (0|1 -> 1|0)
+      nodes : 0|1 1|0
+      nominal build cost : 2.695
+      build cost interval : 2.695 3.998
+      nominal use cost : 5.693
+      use cost interval : 5.693 10.433
+   name : (0|1 -> 1|2)
+      nodes : 0|1 1|2
+      nominal build cost : 1.967
+      build cost interval : 1.967 2.207
+      nominal use cost : 5.217
+      use cost interval : 5.217 16.097
+   name : (0|2 -> 1|1)
+      nodes : 0|2 1|1
+      nominal build cost : 2.632
+      build cost interval : 2.632 3.359
+      nominal use cost : 7.061
+      use cost interval : 7.061 18.036
+   name : (0|2 -> 1|2)
+      nodes : 0|2 1|2
+      nominal build cost : 2.257
+      build cost interval : 2.257 3.626
+      nominal use cost : 4.645
+      use cost interval : 4.645 27.056
+   name : (0|2 -> 1|3)
+      nodes : 0|2 1|3
+      nominal build cost : 2.059
+      build cost interval : 2.059 3.98
+      nominal use cost : 4.327
+      use cost interval : 4.327 8.342
+   name : (0|3 -> 1|2)
+      nodes : 0|3 1|2
+      nominal build cost : 1.31
+      build cost interval : 1.31 2.734
+      nominal use cost : 5.488
+      use cost interval : 5.488 25.301
+   name : (0|3 -> 1|3)
+      nodes : 0|3 1|3
+      nominal build cost : 2.545
+      build cost interval : 2.545 3.741
+      nominal use cost : 5.503
+      use cost interval : 5.503 25.055
+   name : (0|4 -> 1|3)
+      nodes : 0|4 1|3
+      nominal build cost : 1.14
+      build cost interval : 1.14 3.387
+      nominal use cost : 6.615
+      use cost interval : 6.615 10.921
+   name : (0|4 -> 1|4)
+      nodes : 0|4 1|4
+      nominal build cost : 2.559
+      build cost interval : 2.559 3.066
+      nominal use cost : 6.296
+      use cost interval : 6.296 12.459
+   name : (1|0 -> 1|1)
+      nodes : 1|0 1|1
+      nominal build cost : 1.754
+      build cost interval : 1.754 5.006
+      nominal use cost : 7.836
+      use cost interval : 7.836 12.702
+   name : (1|0 -> 2|0)
+      nodes : 1|0 2|0
+      nominal build cost : 2.658
+      build cost interval : 2.658 5.753
+      nominal use cost : 6.582
+      use cost interval : 6.582 26.272
+   name : (1|0 -> 2|1)
+      nodes : 1|0 2|1
+      nominal build cost : 2.805
+      build cost interval : 2.805 4.76
+      nominal use cost : 6.543
+      use cost interval : 6.543 17.581
+   name : (1|1 -> 1|2)
+      nodes : 1|1 1|2
+      nominal build cost : 2.966
+      build cost interval : 2.966 3.256
+      nominal use cost : 6.458
+      use cost interval : 6.458 33.362
+   name : (1|1 -> 2|0)
+      nodes : 1|1 2|0
+      nominal build cost : 1.68
+      build cost interval : 1.68 4.611
+      nominal use cost : 5.059
+      use cost interval : 5.059 19.281
+   name : (1|1 -> 2|1)
+      nodes : 1|1 2|1
+      nominal build cost : 2.837
+      build cost interval : 2.837 7.424
+      nominal use cost : 6.946
+      use cost interval : 6.946 18.973
+   name : (1|2 -> 1|3)
+      nodes : 1|2 1|3
+      nominal build cost : 2.851
+      build cost interval : 2.851 5.239
+      nominal use cost : 4.775
+      use cost interval : 4.775 26.408
+   name : (1|2 -> 2|1)
+      nodes : 1|2 2|1
+      nominal build cost : 2.301
+      build cost interval : 2.301 4.397
+      nominal use cost : 7.147
+      use cost interval : 7.147 35.48
+   name : (1|2 -> 2|2)
+      nodes : 1|2 2|2
+      nominal build cost : 1.855
+      build cost interval : 1.855 5.431
+      nominal use cost : 6.414
+      use cost interval : 6.414 6.606
+   name : (1|2 -> 2|3)
+      nodes : 1|2 2|3
+      nominal build cost : 1.747
+      build cost interval : 1.747 2.558
+      nominal use cost : 6.336
+      use cost interval : 6.336 10.223
+   name : (1|3 -> 1|4)
+      nodes : 1|3 1|4
+      nominal build cost : 2.357
+      build cost interval : 2.357 2.702
+      nominal use cost : 6.51
+      use cost interval : 6.51 37.602
+   name : (1|3 -> 2|2)
+      nodes : 1|3 2|2
+      nominal build cost : 2.366
+      build cost interval : 2.366 3.923
+      nominal use cost : 6.697
+      use cost interval : 6.697 34.346
+   name : (1|3 -> 2|3)
+      nodes : 1|3 2|3
+      nominal build cost : 2.097
+      build cost interval : 2.097 3.074
+      nominal use cost : 6.178
+      use cost interval : 6.178 13.091
+   name : (1|4 -> 2|4)
+      nodes : 1|4 2|4
+      nominal build cost : 1.859
+      build cost interval : 1.859 5.115
+      nominal use cost : 6.87
+      use cost interval : 6.87 29.126
+   name : (2|0 -> 2|1)
+      nodes : 2|0 2|1
+      nominal build cost : 1.563
+      build cost interval : 1.563 3.443
+      nominal use cost : 6.967
+      use cost interval : 6.967 20.435
+   name : (2|1 -> 2|2)
+      nodes : 2|1 2|2
+      nominal build cost : 1.241
+      build cost interval : 1.241 3.26
+      nominal use cost : 6.378
+      use cost interval : 6.378 21.173
+   name : (2|2 -> 2|3)
+      nodes : 2|2 2|3
+      nominal build cost : 1.602
+      build cost interval : 1.602 3.424
+      nominal use cost : 4.654
+      use cost interval : 4.654 6.335
+   name : (2|3 -> 2|4)
+      nodes : 2|3 2|4
+      nominal build cost : 1.03
+      build cost interval : 1.03 1.776
+      nominal use cost : 6.937
+      use cost interval : 6.937 21.681
+Demands :
+   name : R0
+      start node : 0|0
+      end node : 2|2
+      nominal gain : 9.883
+      gain interval : 4.366 9.883
+   name : R1
+      start node : 0|1
+      end node : 0|2
+      nominal gain : 6.045
+      gain interval : 0.948 6.045
+   name : R2
+      start node : 0|1
+      end node : 1|3
+      nominal gain : 6.561
+      gain interval : 0.661 6.561
+   name : R3
+      start node : 0|1
+      end node : 1|4
+      nominal gain : 8.778
+      gain interval : 3.937 8.778
+   name : R4
+      start node : 0|2
+      end node : 0|4
+      nominal gain : 7.311
+      gain interval : 3.69 7.311
+   name : R5
+      start node : 0|3
+      end node : 1|3
+      nominal gain : 6.938
+      gain interval : 3.841 6.938
+   name : R6
+      start node : 0|3
+      end node : 2|2
+      nominal gain : 8.517
+      gain interval : 3.053 8.517
+   name : R7
+      start node : 0|4
+      end node : 1|1
+      nominal gain : 6.518
+      gain interval : 1.061 6.518
+   name : R8
+      start node : 0|4
+      end node : 2|3
+      nominal gain : 5.541
+      gain interval : 0.223 5.541
+   name : R9
+      start node : 0|4
+      end node : 2|4
+      nominal gain : 6.263
+      gain interval : 2.974 6.263
+   name : R10
+      start node : 1|0
+      end node : 1|1
+      nominal gain : 6.348
+      gain interval : 4.488 6.348
+   name : R11
+      start node : 1|0
+      end node : 1|3
+      nominal gain : 8.617
+      gain interval : 2.706 8.617
+   name : R12
+      start node : 1|1
+      end node : 1|4
+      nominal gain : 7.017
+      gain interval : 3.137 7.017
+   name : R13
+      start node : 1|1
+      end node : 2|0
+      nominal gain : 6.455
+      gain interval : 1.114 6.455
+   name : R14
+      start node : 1|1
+      end node : 2|2
+      nominal gain : 6.081
+      gain interval : 0.874 6.081
+   name : R15
+      start node : 1|3
+      end node : 2|3
+      nominal gain : 8.359
+      gain interval : 2.796 8.359
+   name : R16
+      start node : 1|4
+      end node : 2|0
+      nominal gain : 9.528
+      gain interval : 7.104 9.528
+   name : R17
+      start node : 2|1
+      end node : 2|2
+      nominal gain : 5.168
+      gain interval : 0.918 5.168
+Gain facets :
+   -6.045*R0 + -9.883*R1 + <= -55.604
+   -6.561*R1 + -6.045*R2 + <= -39.035
+   -8.778*R2 + -6.561*R3 + <= -54.99
+   -7.311*R3 + -8.778*R4 + <= -49.648
+   -6.938*R4 + -7.311*R5 + <= -36.55
+   -8.517*R5 + -6.938*R6 + <= -47.364
+   -6.518*R6 + -8.517*R7 + <= -52.275
+   -5.541*R7 + -6.518*R8 + <= -35.88
+   -6.263*R8 + -5.541*R9 + <= -34.04
+   -6.348*R9 + -6.263*R10 + <= -26.41
+   -8.617*R10 + -6.348*R11 + <= -42.556
+   -7.017*R11 + -8.617*R12 + <= -51.977
+   -6.455*R12 + -7.017*R13 + <= -41.8
+   -6.081*R13 + -6.455*R14 + <= -38.279
+   -8.359*R14 + -6.081*R15 + <= -48.387
+   -9.528*R15 + -8.359*R16 + <= -59.782
+   -5.168*R16 + -9.528*R17 + <= -42.719
+   1*R0 + 1*R1 + 1*R2 + 1*R3 + 1*R4 + 1*R5 + 1*R6 + 1*R7 + 1*R8 + 1*R9 + 1*R10 + 1*R11 + 1*R12 + 1*R13 + 1*R14 + 1*R15 + 1*R16 + 1*R17 + <= 88.909
+   -1*R0 + -1*R1 + -1*R2 + -1*R3 + -1*R4 + -1*R5 + -1*R6 + -1*R7 + -1*R8 + -1*R9 + -1*R10 + -1*R11 + -1*R12 + -1*R13 + -1*R14 + -1*R15 + -1*R16 + -1*R17 + <= -88.909
+Cost facets :   0.1*u_(0|0 -> 0|1) + 0.052*u_(0|0 -> 1|1) + <= 2.016
+   2.725*c_(0|0 -> 0|1) + 0.659*c_(0|0 -> 1|1) + <= 5.986
+   0.1*u_(0|0 -> 0|1) + 0.067*u_(0|1 -> 0|2) + 0.211*u_(0|1 -> 1|0) + 0.092*u_(0|1 -> 1|2) + <= 3.799
+   2.725*c_(0|0 -> 0|1) + 0.481*c_(0|1 -> 0|2) + 0.767*c_(0|1 -> 1|0) + 4.167*c_(0|1 -> 1|2) + <= 16.512
+   0.067*u_(0|1 -> 0|2) + 0.091*u_(0|2 -> 1|1) + 0.045*u_(0|2 -> 1|2) + 0.249*u_(0|2 -> 1|3) + <= 3.392
+   0.481*c_(0|1 -> 0|2) + 1.376*c_(0|2 -> 1|1) + 0.73*c_(0|2 -> 1|2) + 0.521*c_(0|2 -> 1|3) + <= 8.699
+   0.05*u_(0|3 -> 1|2) + 0.051*u_(0|3 -> 1|3) + <= 1.555
+   0.702*c_(0|3 -> 1|2) + 0.836*c_(0|3 -> 1|3) + <= 4.047
+   0.232*u_(0|4 -> 1|3) + 0.162*u_(0|4 -> 1|4) + <= 3.555
+   0.445*c_(0|4 -> 1|3) + 1.972*c_(0|4 -> 1|4) + <= 6.554
+   0.211*u_(0|1 -> 1|0) + 0.206*u_(1|0 -> 1|1) + 0.051*u_(1|0 -> 2|0) + 0.091*u_(1|0 -> 2|1) + <= 4.747
+   0.767*c_(0|1 -> 1|0) + 0.308*c_(1|0 -> 1|1) + 0.323*c_(1|0 -> 2|0) + 0.512*c_(1|0 -> 2|1) + <= 5.902
+   0.052*u_(0|0 -> 1|1) + 0.091*u_(0|2 -> 1|1) + 0.206*u_(1|0 -> 1|1) + 0.037*u_(1|1 -> 1|2) + 0.07*u_(1|1 -> 2|0) + 0.083*u_(1|1 -> 2|1) + <= 4.788
+   0.659*c_(0|0 -> 1|1) + 1.376*c_(0|2 -> 1|1) + 0.308*c_(1|0 -> 1|1) + 3.448*c_(1|1 -> 1|2) + 0.341*c_(1|1 -> 2|0) + 0.218*c_(1|1 -> 2|1) + <= 17.675
+   0.092*u_(0|1 -> 1|2) + 0.045*u_(0|2 -> 1|2) + 0.05*u_(0|3 -> 1|2) + 0.037*u_(1|1 -> 1|2) + 0.046*u_(1|2 -> 1|3) + 0.035*u_(1|2 -> 2|1) + 5.208*u_(1|2 -> 2|2) + 0.257*u_(1|2 -> 2|3) + <= 37.705
+   4.167*c_(0|1 -> 1|2) + 0.73*c_(0|2 -> 1|2) + 0.702*c_(0|3 -> 1|2) + 3.448*c_(1|1 -> 1|2) + 0.419*c_(1|2 -> 1|3) + 0.477*c_(1|2 -> 2|1) + 0.28*c_(1|2 -> 2|2) + 1.233*c_(1|2 -> 2|3) + <= 26.956
+   0.249*u_(0|2 -> 1|3) + 0.051*u_(0|3 -> 1|3) + 0.232*u_(0|4 -> 1|3) + 0.046*u_(1|2 -> 1|3) + 0.032*u_(1|3 -> 1|4) + 0.036*u_(1|3 -> 2|2) + 0.145*u_(1|3 -> 2|3) + <= 5.458
+   0.521*c_(0|2 -> 1|3) + 0.836*c_(0|3 -> 1|3) + 0.445*c_(0|4 -> 1|3) + 0.419*c_(1|2 -> 1|3) + 2.899*c_(1|3 -> 1|4) + 0.642*c_(1|3 -> 2|2) + 1.024*c_(1|3 -> 2|3) + <= 16.401
+   0.162*u_(0|4 -> 1|4) + 0.032*u_(1|3 -> 1|4) + 0.045*u_(1|4 -> 2|4) + <= 2.537
+   1.972*c_(0|4 -> 1|4) + 2.899*c_(1|3 -> 1|4) + 0.307*c_(1|4 -> 2|4) + <= 13.45
+   0.051*u_(1|0 -> 2|0) + 0.07*u_(1|1 -> 2|0) + 0.074*u_(2|0 -> 2|1) + <= 2.205
+   0.323*c_(1|0 -> 2|0) + 0.341*c_(1|1 -> 2|0) + 0.532*c_(2|0 -> 2|1) + <= 3.263
+   0.091*u_(1|0 -> 2|1) + 0.083*u_(1|1 -> 2|1) + 0.035*u_(1|2 -> 2|1) + 0.074*u_(2|0 -> 2|1) + 0.068*u_(2|1 -> 2|2) + <= 3.371
+   0.512*c_(1|0 -> 2|1) + 0.218*c_(1|1 -> 2|1) + 0.477*c_(1|2 -> 2|1) + 0.532*c_(2|0 -> 2|1) + 0.495*c_(2|1 -> 2|2) + <= 5.598
+   5.208*u_(1|2 -> 2|2) + 0.036*u_(1|3 -> 2|2) + 0.068*u_(2|1 -> 2|2) + 0.595*u_(2|2 -> 2|3) + <= 37.848
+   0.28*c_(1|2 -> 2|2) + 0.642*c_(1|3 -> 2|2) + 0.495*c_(2|1 -> 2|2) + 0.549*c_(2|2 -> 2|3) + <= 4.532
+   0.257*u_(1|2 -> 2|3) + 0.145*u_(1|3 -> 2|3) + 0.595*u_(2|2 -> 2|3) + 0.068*u_(2|3 -> 2|4) + <= 6.765
+   1.233*c_(1|2 -> 2|3) + 1.024*c_(1|3 -> 2|3) + 0.549*c_(2|2 -> 2|3) + 1.34*c_(2|3 -> 2|4) + <= 7.561
+   0.045*u_(1|4 -> 2|4) + 0.068*u_(2|3 -> 2|4) + <= 1.781
+   0.307*c_(1|4 -> 2|4) + 1.34*c_(2|3 -> 2|4) + <= 2.951
